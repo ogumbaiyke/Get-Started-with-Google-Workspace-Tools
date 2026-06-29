@@ -26,6 +26,14 @@ Solution: Just go to Google drive, then click on New, and then click on New Fold
 
 
 
+Task 4. Schedule weekly status meetings
+In Calendar, to ensure effective collaboration with your other team members, set up a weekly status meeting with your 2 colleagues. Make sure that all the recurring events are the same.
+
+Send invitations to both the Colleague 1 and Colleague 2 email ids listed in the lab information pane when creating this meeting.
+
+Solution
+
+Go to Google calendar, click on Create button, then events, Add your details including email ids, then hit okay button. watch it reflect it the calendar. 
 
 
 
@@ -42,11 +50,11 @@ Comments
 Now share this spreadsheet with the same 2 colleagues that you invited to the weekly team meeting.
 
 
-Solution: Go to Google spreadsheets and create a blank spreadsheet
+Solution: Go to Google spreadsheets and create a blank spreadsheet, type in the details above.
 
 
 Task 6. Create an AppSheet application
 Log in and authenticate to AppSheet as the lab user and create a new AppSheet application. It doesn't matter what type of AppSheet app you select at this stage, and you don't need to create any code for this task, but you must authenticate and create the initial application environment.
 
 
-Solution:Go to Google Appsheet.
+Solution:Go to Google Appsheet. Click on Create, add your details. hit the okay button.
